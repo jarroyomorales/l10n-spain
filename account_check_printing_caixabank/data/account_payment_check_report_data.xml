@@ -5,6 +5,6 @@
         <record id="account_payment_check_report_caixabank"
                 model="account.payment.check.report">
             <field name="name">caixabank</field>
-            <field name="report">account_check_printing_caixabank.report_check_caixabank</field>
+            <field name="report">account_check_printing_caixabank.check_report</field>
         </record>
 </odoo>
